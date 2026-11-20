@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "gemsind:diamond_hammer"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "dId",
+    "iii",
+    "dDd"
+  ],
+  "result": {
+    "count": 1,
+    "id": "gemsind:reinforced_hammer"
+  }
+}

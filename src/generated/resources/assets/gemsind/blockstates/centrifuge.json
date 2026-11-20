@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "spinning=false": {
+      "model": "gemsind:block/centrifuge_off"
+    },
+    "spinning=true": {
+      "model": "gemsind:block/centrifuge_on"
+    }
+  }
+}

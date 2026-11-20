@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:cosmolite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:floalyte"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:untyte"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:starothalite"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "gemsind:geode_drops/unearthly_geode"
+}

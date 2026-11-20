@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "ag": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#gemsind:has_element/ag"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "au": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#gemsind:has_element/au"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "gemsind:electrum"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "au",
+      "ag"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "gemsind:electrum"
+    ]
+  }
+}

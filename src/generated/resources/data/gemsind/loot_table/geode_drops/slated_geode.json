@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:ilmenite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:milky_quartz"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:calaverite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:kosmochlor"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "gemsind:geode_drops/slated_geode"
+}

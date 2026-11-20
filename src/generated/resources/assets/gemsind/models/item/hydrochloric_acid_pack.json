@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gemsind:item/acid_pack_overlay",
+    "layer1": "gemsind:item/acid_pack"
+  }
+}

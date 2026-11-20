@@ -1,0 +1,10 @@
+{
+  "values": [
+    "gemsind:test_alloy",
+    "gemsind:steel",
+    "gemsind:stainless_steel",
+    "gemsind:cobalt_chrome",
+    "gemsind:electrum",
+    "gemsind:endithyte"
+  ]
+}

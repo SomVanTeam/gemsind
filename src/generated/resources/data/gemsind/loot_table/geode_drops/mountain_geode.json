@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:pyrite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:barite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:ferroselite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:magnetite"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "gemsind:geode_drops/mountain_geode"
+}

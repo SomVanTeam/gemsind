@@ -1,0 +1,23 @@
+{
+  "type": "gemsind:alloying",
+  "alloyingTime": 9600,
+  "ingredients": [
+    {
+      "tag": "gemsind:has_element/unknown"
+    },
+    {
+      "tag": "gemsind:has_element/as"
+    },
+    {
+      "tag": "gemsind:has_element/fe"
+    },
+    {
+      "tag": "gemsind:has_element/ti"
+    }
+  ],
+  "minFluxCount": 4,
+  "result": {
+    "count": 1,
+    "id": "gemsind:endithyte"
+  }
+}

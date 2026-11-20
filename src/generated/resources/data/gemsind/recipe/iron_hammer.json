@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "r": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "rrr",
+    "rs ",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "gemsind:iron_hammer"
+  }
+}

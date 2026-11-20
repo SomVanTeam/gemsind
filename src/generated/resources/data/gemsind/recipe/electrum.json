@@ -1,0 +1,17 @@
+{
+  "type": "gemsind:alloying",
+  "alloyingTime": 2400,
+  "ingredients": [
+    {
+      "tag": "gemsind:has_element/au"
+    },
+    {
+      "tag": "gemsind:has_element/ag"
+    }
+  ],
+  "minFluxCount": 3,
+  "result": {
+    "count": 1,
+    "id": "gemsind:electrum"
+  }
+}

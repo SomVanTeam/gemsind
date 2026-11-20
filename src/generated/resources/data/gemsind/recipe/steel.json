@@ -1,0 +1,17 @@
+{
+  "type": "gemsind:alloying",
+  "alloyingTime": 600,
+  "ingredients": [
+    {
+      "tag": "gemsind:has_element/fe"
+    },
+    {
+      "tag": "gemsind:has_element/c"
+    }
+  ],
+  "minFluxCount": 1,
+  "result": {
+    "count": 1,
+    "id": "gemsind:steel"
+  }
+}

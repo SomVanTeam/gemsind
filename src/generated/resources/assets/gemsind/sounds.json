@@ -1,0 +1,41 @@
+{
+  "acid_purifier_ambient": {
+    "replace": true,
+    "sounds": [
+      "gemsind:acid_purifier_ambient"
+    ],
+    "subtitle": "sounds.gemsind.acid_purifier_ambient"
+  },
+  "alloying_furnace_ambient": {
+    "replace": true,
+    "sounds": [
+      "gemsind:crackling_ambient_1",
+      "gemsind:crackling_ambient_2",
+      "gemsind:crackling_ambient_3",
+      "gemsind:crackling_ambient_4"
+    ],
+    "subtitle": "sounds.gemsind.alloying_furnace_ambient"
+  },
+  "alloying_furnace_finish": {
+    "replace": true,
+    "sounds": [
+      "gemsind:deep_fizz"
+    ],
+    "subtitle": "sounds.gemsind.alloying_furnace_finish"
+  },
+  "centrifuge_ambient": {
+    "replace": true,
+    "sounds": [
+      "gemsind:centrifuge_ambient_1",
+      "gemsind:centrifuge_ambient_2"
+    ],
+    "subtitle": "sounds.gemsind.centrifuge_ambient"
+  },
+  "centrifuge_finish": {
+    "replace": true,
+    "sounds": [
+      "gemsind:deep_fizz"
+    ],
+    "subtitle": "sounds.gemsind.centrifuge_finish"
+  }
+}

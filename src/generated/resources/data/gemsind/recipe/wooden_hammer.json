@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "r": {
+      "tag": "minecraft:planks"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "rrr",
+    "rs ",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "gemsind:wooden_hammer"
+  }
+}

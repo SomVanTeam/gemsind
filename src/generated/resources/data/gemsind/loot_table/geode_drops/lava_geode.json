@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:crocoite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:kyanite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:clausthalite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gemsind:sapphire"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "gemsind:geode_drops/lava_geode"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "gemsind:centrifuge"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "pattern": [
+    "rdr",
+    "ICI",
+    "rdr"
+  ],
+  "result": {
+    "count": 1,
+    "id": "gemsind:tumbler"
+  }
+}

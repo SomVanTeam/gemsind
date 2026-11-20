@@ -1,0 +1,101 @@
+{
+  "message.gemsind.hammer_not_strong_enough": "Your hammer isn't strong enough to break this geode.",
+  "message.gemsind.alloying": "Alloying",
+
+  // blocks
+  "block.gemsind.counter": "Counter",
+  "block.gemsind.counter.tooltip": "Holds an Item, can be used to crack Geodes with a Hammer.",
+  "block.gemsind.acid_purifier": "Acid Purifier",
+  "block.gemsind.acid_purifier.tooltip": "Increases a Gem's Purity. Stronger Acids purify faster and better. However, using an Acid too strong for that Gem will destroy it. [W.I.P.; this block will be fully reworked soon]",
+  "block.gemsind.centrifuge": "Centrifuge",
+  "block.gemsind.centrifuge.tooltip": "Increases a Gem's Purity, powered by Furnace Fuel. Fuel and Gems can be inputted from any side. If the Fuel turns into another item on consumption (like Lava Buckets turn into Buckets), they will be outputted.",
+  "block.gemsind.tumbler": "Tumbler",
+  "block.gemsind.tumbler.tooltip": "Increases a Gem's Polish, powered by Furnace Fuel. Fuel and Gems can be inputted from any side. If the Fuel turns into another item on consumption (like Lava Buckets turn into Buckets), they will be outputted.",
+  "block.gemsind.alloying_furnace": "Alloying Furnace",
+  "block.gemsind.alloying_furnace.tooltip": "Creates an Alloy out of 2 (or more) Element Gems and 1 (or more) Flux Gems. Alloys gain value based on their input Element and Flux Gems' value (Enargite Cu > Malachite Cu). REQUIRES A LOT OF FUEL. JEI Compatible.",
+
+  // item tabs
+  "tab.gemsind.gemsind": "Gemstone Industry",
+  "tab.gemsind.geodes_and_valuables": "Geodes & Valuables",
+
+  // tools
+  "item.gemsind.hammer.tooltip": "Used to crack Geodes, put a Geode on a Counter and then Left Click the top face of the Counter while holding the Hammer.",
+  "item.gemsind.hammer.not_usable_tooltip": "please get a better hammer",
+  "item.gemsind.wooden_hammer": "Wooden Hammer",
+  "item.gemsind.iron_hammer": "Iron Hammer",
+  "item.gemsind.golden_hammer": "Golden Hammer",
+  "item.gemsind.diamond_hammer": "Diamond Hammer",
+  "item.gemsind.reinforced_hammer": "Reinforced Hammer",
+
+  // generic gem
+  "item.gemsind.gem.holdshifttoexpand": "Hold Shift to Expand",
+  "item.gemsind.gem.purity": "Purity: ",
+  "item.gemsind.gem.polish": "Polish: ",
+  "item.gemsind.gem.acid_tolerance": "Acid Tolerance: ",
+  "item.gemsind.gem.flux": "Flux",
+
+  // generic acid pack
+  "item.gemsind.acid_pack.tooltip": "...",
+  "item.gemsind.acid_pack.strength": "Acid Strength: ",
+
+  // acid packs
+  "item.gemsind.empty_acid_pack": "Empty Acid Pack",
+  "item.gemsind.acetic_acid_pack": "Acetic Acid Pack",
+  "item.gemsind.oxalic_acid_pack": "Oxalic Acid Pack",
+  "item.gemsind.hydrochloric_acid_pack": "Hydrochloric Acid Pack",
+
+  // alloys
+  "item.gemsind.steel": "Steel",
+  "item.gemsind.stainless_steel": "Stainless Steel",
+  "item.gemsind.cobalt_chrome": "Cobalt-Chrome",
+  "item.gemsind.electrum": "Electrum",
+  "item.gemsind.endithyte": "Endithyte",
+
+  // generic geode
+  "item.gemsind.geode.best_drop": "Best Gem: ",
+
+  // geodes & gems
+  "item.gemsind.river_geode": "River Geode",
+  "item.gemsind.river_geode.tooltip": "Found in Clay under water.",
+  "item.gemsind.goethite": "Goethite",
+  "item.gemsind.halite": "Halite",
+
+  "item.gemsind.granite_geode": "Granite Geode",
+  "item.gemsind.granite_geode.tooltip": "Found in Granite deep underground.",
+  "item.gemsind.malachite": "Malachite",
+  "item.gemsind.pepsyte": "Pepsyte",
+
+  "item.gemsind.netherrack_geode": "Netherrack Geode",
+  "item.gemsind.netherrack_geode.tooltip": "Found in Netherrack close to the top of the Nether.",
+  "item.gemsind.tennatite": "Tennatite",
+  "item.gemsind.enargite": "Enargite",
+  "item.gemsind.uvarovite": "Uvarovite",
+
+  "item.gemsind.mountain_geode": "Mountain Geode",
+  "item.gemsind.mountain_geode.tooltip": "Found near the top of the tallest Mountains.",
+  "item.gemsind.pyrite": "Pyrite",
+  "item.gemsind.barite": "Barite",
+  "item.gemsind.ferroselite": "Ferroselite",
+  "item.gemsind.magnetite": "Magnetite",
+
+  "item.gemsind.slated_geode": "Slated Geode",
+  "item.gemsind.slated_geode.tooltip": "Found in Deepslate very deep underground.",
+  "item.gemsind.milky_quartz": "Milky Quartz",
+  "item.gemsind.ilmenite": "Ilmenite",
+  "item.gemsind.calaverite": "Calaverite",
+  "item.gemsind.kosmochlor": "Kosmochlor",
+
+  "item.gemsind.lava_geode": "Lava Geode",
+  "item.gemsind.lava_geode.tooltip": "Found under lava oceans in the Nether.",
+  "item.gemsind.crocoite": "Crocoite",
+  "item.gemsind.kyanite": "Kyanite",
+  "item.gemsind.clausthalite": "Clausthalite",
+  "item.gemsind.sapphire": "Sapphire",
+
+  "item.gemsind.unearthly_geode": "Unearthly Geode",
+  "item.gemsind.unearthly_geode.tooltip": "Found under the End Islands.",
+  "item.gemsind.cosmolite": "Cosmolite",
+  "item.gemsind.floalyte": "Floalyte",
+  "item.gemsind.untyte": "Untyte",
+  "item.gemsind.starothalite": "Starothalite"
+}

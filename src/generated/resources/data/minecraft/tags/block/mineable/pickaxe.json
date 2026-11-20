@@ -1,0 +1,9 @@
+{
+  "values": [
+    "gemsind:counter",
+    "gemsind:acid_purifier",
+    "gemsind:centrifuge",
+    "gemsind:tumbler",
+    "gemsind:alloying_furnace"
+  ]
+}

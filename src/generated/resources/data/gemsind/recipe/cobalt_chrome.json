@@ -1,0 +1,17 @@
+{
+  "type": "gemsind:alloying",
+  "alloyingTime": 1800,
+  "ingredients": [
+    {
+      "tag": "gemsind:has_element/co"
+    },
+    {
+      "tag": "gemsind:has_element/cr"
+    }
+  ],
+  "minFluxCount": 1,
+  "result": {
+    "count": 1,
+    "id": "gemsind:cobalt_chrome"
+  }
+}
